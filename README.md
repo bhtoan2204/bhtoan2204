@@ -10,7 +10,10 @@
 - 🛠️ Building side projects that combine backend performance with real-time data
 - 📊 Passionate about making data useful — dashboards, insights, or pure logs
 - 💬 Ask me about backend stuff, event-driven architecture, or analytics pipelines
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ### 📈 GitHub Stats
