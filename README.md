@@ -16,12 +16,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhtoan2204&show_icons=true&theme=tokyonight" alt="bhtoan2204 GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bhtoan2204&show_icons=true&theme=tokyonight" alt="bhtoan2204 GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </div>
   <br />
   <img src="https://ghchart.rshah.org/bhtoan2204" alt="GitHub Contributions" />
 </p>
+
 
 ---
 
