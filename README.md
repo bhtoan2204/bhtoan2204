@@ -10,20 +10,16 @@
 - 🛠️ Building side projects that combine backend performance with real-time data
 - 📊 Passionate about making data useful — dashboards, insights, or pure logs
 - 💬 Ask me about backend stuff, event-driven architecture, or analytics pipelines
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=bhtoan2204&show_icons=true&theme=tokyonight" alt="bhtoan2204 GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhtoan2204&show_icons=true&theme=tokyonight" alt="bhtoan2204 GitHub Stats" />
   <br />
   <img src="https://ghchart.rshah.org/bhtoan2204" alt="GitHub Contributions" />
 </p>
-
 
 ---
 
