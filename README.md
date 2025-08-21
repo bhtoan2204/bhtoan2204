@@ -31,23 +31,9 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/banhhaotoan2002/">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/banhhaotoan2002/solved&label=LeetCode%20Solved&query=solvedProblem&color=brightgreen&logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Solved" />
+    <img src="https://leetcard.jacoblin.cool/banhhaotoan2002?theme=dark&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
-
-<details>
-<summary>🔎 See raw API query</summary>
-
-```bash
-curl 'https://leetcode.com/graphql'   -H 'content-type: application/json'   -H 'referer: https://leetcode.com'   --data-raw '{
-    "operationName":"getUserProfile",
-    "variables":{"username":"banhhaotoan2002"},
-    "query":"query getUserProfile($username: String!) { matchedUser(username: $username) { username submitStats: submitStatsGlobal { acSubmissionNum { difficulty count submissions } } } }"
-  }'
-```
-</details>
-
----
 
 ### 🔍 Analytics & Data Engineering Vibes
 
