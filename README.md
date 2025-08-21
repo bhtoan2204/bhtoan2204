@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 ### 📈 GitHub Stats
@@ -23,6 +24,28 @@
   <br />
   <img src="https://ghchart.rshah.org/bhtoan2204" alt="GitHub Contributions" />
 </p>
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/banhhaotoan2002/">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/banhhaotoan2002/solved&label=LeetCode%20Solved&query=solvedProblem&color=brightgreen&logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Solved" />
+  </a>
+</p>
+
+<details>
+<summary>🔎 See raw API query</summary>
+
+```bash
+curl 'https://leetcode.com/graphql'   -H 'content-type: application/json'   -H 'referer: https://leetcode.com'   --data-raw '{
+    "operationName":"getUserProfile",
+    "variables":{"username":"banhhaotoan2002"},
+    "query":"query getUserProfile($username: String!) { matchedUser(username: $username) { username submitStats: submitStatsGlobal { acSubmissionNum { difficulty count submissions } } } }"
+  }'
+```
+</details>
 
 ---
 
@@ -49,25 +72,3 @@ I enjoy collecting and analyzing data from real systems and making it speak:
 ### ⚡ Fun Fact
 
 > I love building backend systems that feel like magic on the front. Also, I'm the type of guy who reads logs for fun. Yep.
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/u/banhhaotoan2002/">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/banhhaotoan2002/solved&label=LeetCode%20Solved&query=solvedProblem&color=brightgreen&logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Solved" />
-  </a>
-</p>
-
-<details>
-<summary>🔎 See raw API query</summary>
-
-```bash
-curl 'https://leetcode.com/graphql' \
-  -H 'content-type: application/json' \
-  -H 'referer: https://leetcode.com' \
-  --data-raw '{
-    "operationName":"getUserProfile",
-    "variables":{"username":"banhhaotoan2002"},
-    "query":"query getUserProfile($username: String!) { matchedUser(username: $username) { username submitStats: submitStatsGlobal { acSubmissionNum { difficulty count submissions } } } }"
-  }'
-</details>
