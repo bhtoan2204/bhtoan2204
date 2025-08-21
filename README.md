@@ -50,3 +50,14 @@ I enjoy collecting and analyzing data from real systems and making it speak:
 
 > I love building backend systems that feel like magic on the front. Also, I'm the type of guy who reads logs for fun. Yep.
 
+```bash
+curl 'https://leetcode.com/graphql' \
+  -H 'content-type: application/json' \
+  -H 'referer: https://leetcode.com' \
+  --data-raw '{
+    "operationName":"getUserProfile",
+    "variables":{"username":"banhhaotoan2002"},
+    "query":"query getUserProfile($username: String!) { matchedUser(username: $username) { username submitStats: submitStatsGlobal { acSubmissionNum { difficulty count submissions } } } }"
+  }'
+</details>
+```
