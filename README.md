@@ -1,19 +1,3 @@
-<div align="center">
-  <h1>Hi 👋, I'm Toàn (bhtoan2204)</h1>
-  <h3>A developer who loves coding, data, and turning ideas into software 🚀</h3>
-</div>
-
----
-
-## 🧠 About Me (At a glance)
-- 🔭 Exploring **distributed systems**, **microservices**, and **analytics**
-- 🌱 Leveling up in **Golang**, **Kafka**, **CQRS**, and **DevOps**
-- 🛠️ Building side projects that mix backend performance with real‑time data
-- 📊 I turn data into insights — dashboards, observability, or even raw logs
-- 💬 Ask me about backend, event‑driven architecture, or analytics pipelines
-
----
-
 ## 📊 My Stats
 
 <table>
@@ -34,18 +18,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🔍 Analytics & Data Engineering Vibes
-I enjoy collecting and analyzing data from real systems and making it speak:
-
-- 📊 Built tools that analyze GitHub commit activity, coding hours, and repo trends  
-- 📦 Worked with **Kafka** and event streams to process real‑time data  
-- 📈 Familiar with dashboarding using **Grafana**, **Prometheus**, and log analysis  
-- 🧪 Always curious to see **what's really going on under the hood**
-
-> “In God we trust. All others must bring data.” – W. Edwards Deming
 
 ---
 
