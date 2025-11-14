@@ -4,8 +4,6 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=bhtoan2204&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-        <br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhtoan2204&layout=compact&theme=tokyonight" alt="Top Languages" />
       </div>
     </td>
